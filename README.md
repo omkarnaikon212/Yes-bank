@@ -1,4 +1,5 @@
 Using data visualization on our target variable, we can clearly see the impact of 2018 fraud case involving Rana Kapoor as the stock prices decline dramatically during that period.
+
 After loading the dataset, we found that there are no null values in our dataset nor any duplicate data.
 There are some outliers in our features however this being a very small dataset, dropping those instances will lead to loss of information.
 We found that the distribution of all our variables is positively skewed. so we performed log transformation on them.
